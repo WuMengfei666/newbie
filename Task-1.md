@@ -18,7 +18,7 @@
 ### 本周任务
 1. 首先是先了解web组的工作流程，学会简单的psd样图提取素材，并整合到自己的网页中
 1. 学会简单的html,css和js不做过多的要求，最终目的是能看懂html和css就可以了,js可以了解一下
-1. **重点:** 把我放在[这里](https://github.com/YUOL-CCY/task/blob/master/resources/demo.psd)的demo.psd的样图下载下来,做出一张首页. 
+1. **重点:** 把我放在[这里](/resources/demo.psd)的demo.psd的样图下载下来,做出一张首页. 
 1. 建立一个github仓库,统一命名"Dev_ops" 以后将每次的任务的文档和代码上传到这个仓库中
 1. 每一周的任务分一个文件夹，统一命名"Task-"+试用期第几周,文件夹中的名字不限
 1. 将自己写的网页，上传至github上。
