@@ -32,7 +32,7 @@
     js暂时不做要求,完成页面的整体布局和静态效果就可以了.
 
 ### 参考资料&&教程&&资源
-[建立工程文件视频](https://github.com/YUOL-CCY/task/tree/master/resources/video)  **ps:** 需要下载
+[建立工程文件视频](/resources/video)  **ps:** 需要下载
 
 [web开发经验谈之F12开发者工具/Web调试](http://www.cnblogs.com/yougewe/p/5152700.html)
 
